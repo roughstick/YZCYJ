@@ -1,6 +1,6 @@
 # YZCYJ
 江苏广电内网源，全网收集，节目源区分大小写
-收集yu收集于https://github.com/lzh81569/lzh81569.github.io/blob/7a6167b5bac74f8a950e3bea722657f19fef79bb/GDIP.m3u#L5
+收集于https://github.com/lzh81569/lzh81569.github.io/blob/7a6167b5bac74f8a950e3bea722657f19fef79bb/GDIP.m3u#L5
 ，也添加了不少，但是底下台怎么shi怎么试也试不出来，如果可提供请加QQ群325914131
 
 南京影视,http://172.31.203.136:8006/jscn/NanJingYingShi.m3u8     //失效
